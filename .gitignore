@@ -1,0 +1,19 @@
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# MATLAB generated files
+*.asv          # autosave files
+*.m~           # backup files
+*.fig          # figures (regenerate from code)
+*.mat          # data files (usually large — track separately if needed)
+
+# Paradigm/output data (large binary files)
+# Comment these out if you DO want to track small config spreadsheets
+# *.xlsx
+
+# External dependencies (not your code)
+_external/
